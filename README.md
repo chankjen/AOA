@@ -1,5 +1,3 @@
----
-
 ### **Part 1: Attribute Oriented Analysis (AOA)**
 
 #### **1.1 Definition and Purpose**
